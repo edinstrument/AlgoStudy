@@ -1,3 +1,4 @@
+// Confused about pointers relationship. Pondering between '->' and '='. Tried Several Attempts and the tutorial video helped.
 /**
  * Definition for singly-linked list.
  * struct ListNode {
