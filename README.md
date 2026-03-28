@@ -1,2 +1,2 @@
-# AlgoStudy
-BOJ such
+# AlgoStudy (such like BOJ, Leetcode)
+

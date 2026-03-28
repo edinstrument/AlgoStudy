@@ -1,9 +1,8 @@
-#include <stdio.h>
 
- struct ListNode {
- int val;
+struct ListNode {
+int val;
 struct ListNode *next;
- };
+};
  
 struct ListNode* reverseList(struct ListNode* head) {
     int val;
@@ -18,9 +17,4 @@ struct ListNode* reverseList(struct ListNode* head) {
         live = Temp;
     }
     return pre;
-}
-
-int main() {
-    reverseList;
-    return 0;
 }
