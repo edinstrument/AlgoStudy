@@ -5,7 +5,6 @@ struct ListNode *next;
 };
  
 struct ListNode* reverseList(struct ListNode* head) {
-    int val;
     struct ListNode* Temp = NULL;
     struct ListNode* pre = NULL;
     struct ListNode* live = head;
